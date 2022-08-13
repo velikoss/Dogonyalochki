@@ -1,0 +1,8 @@
+name: Dogonyalochki
+version: '${version}'
+main: me.velikoss.dogonyalochki.Dogonyalochki
+api-version: 1.18
+authors: [ velikoss ]
+commands:
+  pee:
+  spit:
